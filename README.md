@@ -3,9 +3,13 @@
 
 |script|memo|
 |:--|:--|
-|[for](for)|for文|
-|[package_alias](package_alias)|package の alias 指定|
 |[const](const)|定数|
+|[for](for)|for文|
+|[if_variable](if_variable)|If with a short statement|
+|[maps](maps)|map|
 |[named_results](named_results)|Named Results。名前付きの複数戻り値|
+|[newton_method](newton_method)|ニュートン法のサンプルコード|
+|[package_alias](package_alias)|package の alias 指定|
 |[string_rune_heredoc](string_rune_heredoc)|string, rune, heredocument|
+|[struct](struct)|Struct|
 |[switch](switch)|switch文|
